@@ -1,6 +1,6 @@
 ## Usage
 
-```python orb_script.py filename.csv```
+```$ python orb_script.py filename.csv```
 
 
 The input file parameter (`filename.csv`) is required.
